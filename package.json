@@ -1,0 +1,23 @@
+{
+  "name": "mean_ftob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhan-memon713/Mean-Stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhan-memon713/Mean-Stack/issues"
+  },
+  "homepage": "https://github.com/farhan-memon713/Mean-Stack#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11"
+  }
+}
